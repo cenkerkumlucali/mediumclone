@@ -1,0 +1,249 @@
+#navbar{
+    margin-left: auto;
+}
+.bg-yellow{
+    background-color: #FFC017; 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid #414141;
+}
+.ea {
+    color: rgba(8, 8, 8, 1);
+}
+
+.dz {
+    font-feature-settings: 'pnum' on, 'lnum' on;
+}
+
+
+.dy {
+    letter-spacing: -0.05em;
+}
+
+.dx {
+    line-height: 74px;
+}
+.dw {
+    font-size: 70px;
+}
+
+.dv {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.eh {
+    font-size: 18px;
+}
+
+
+.bz {
+    color: rgba(41, 41, 41, 1);
+}
+
+.bw {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.b {
+    font-weight: 400;
+}
+.cv button {
+    width: 128px;
+}
+
+.cu button {
+    color: #000;
+}
+
+.ct button {
+    border-color: #000;
+}
+
+.eo {
+    border-color: rgba(117, 117, 117, 1);
+}
+
+.en {
+    background: 0;
+}
+.em {
+    fill: rgba(41, 41, 41, 1);
+}
+
+.el {
+    padding: 7px 20px 9px;
+}
+
+.ek {
+    font-size: 16px;
+}
+
+.ei {
+    line-height: 24px;
+}
+
+.cr {
+    text-decoration: none;
+}
+
+.cq {
+    display: inline-block;
+}
+
+.cp {
+    box-sizing: border-box;
+}
+
+.co {
+    border-style: solid;
+}
+
+.cn {
+    border-width: 1px;
+}
+
+.cm {
+    border-radius: 99em;
+}
+
+.bz {
+    color: rgba(41, 41, 41, 1);
+}
+
+.bw {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.b {
+    font-weight: 400;
+}
+button {
+    appearance: auto;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+.fa-rocket:before {
+    content: "\f135";
+    margin-right: 10px;
+}
+.aside-buttons > li{
+margin-bottom: 10px;
+}
+.jk {
+    max-height: none;
+}
+
+.ku {
+    letter-spacing: 0px;
+}
+
+.kt {
+    max-height: 56px;
+}
+
+
+.ks {
+    line-height: 28px;
+}
+
+
+.kr {
+    font-size: 22px;
+}
+
+.jo {
+    -webkit-line-clamp: 2;
+}
+
+.jj {
+    -webkit-box-orient: vertical;
+}
+
+.jh {
+    display: -webkit-box;
+}
+
+.jg {
+    text-overflow: ellipsis;
+}
+
+.je {
+    overflow: hidden;
+}
+
+.hv {
+    font-weight: 700;
+}
+
+.bz {
+    color: rgba(41, 41, 41, 1);
+}
+
+.bw {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.jl {
+    max-height: none;
+}
+
+.jo {
+    -webkit-line-clamp: 2;
+}
+
+.jn {
+    max-height: 40px;
+}
+
+.jk {
+    -webkit-box-orient: vertical;
+}
+
+.ji {
+    display: -webkit-box;
+}
+
+.jh {
+    text-overflow: ellipsis;
+}
+
+.jf {
+    overflow: hidden;
+}
+
+.if {
+    color: rgba(117, 117, 117, 1);
+}
+
+.ek {
+    font-size: 16px;
+}
+.bw {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
